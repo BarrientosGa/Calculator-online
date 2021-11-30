@@ -10,4 +10,4 @@
  `npm install`
 
 #### Uso
-`npm run`
+`npm start`
